@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 1072,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2019-12-21T04:43:42 -01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 5837,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2020-02-25T01:45:26 -01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 3646,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2019-10-08T11:36:08 -02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 2407,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2016-01-02T02:53:24 -01:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 2097,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2021-08-23T12:20:15 -02:00"
+  }
+]
