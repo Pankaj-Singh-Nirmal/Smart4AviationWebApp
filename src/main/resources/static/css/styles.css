@@ -91,3 +91,14 @@ body,html {
 .margin-top-30{
 	margin-top: 30px;
 }
+
+img{
+	position: absolute;
+	width: 30%;
+	height: 30%;
+	top: -5%;
+}
+
+.right-img{
+	margin-left: 70%;
+}

@@ -9,6 +9,10 @@
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	</head>
 	<body>
+		<img src="/images/plane_right.png"/>
+		<div class="right-img">
+			<img src="/images/plane_left.png"/>
+		</div>
 		<div class="center">
 			<div class="main_headline">
 				<div class="color-red">SMART-4-AVIATION</div>
