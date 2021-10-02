@@ -5,6 +5,11 @@ Application can be run on a machine with following docker commands:
   >**docker pull pankajsn/smart4aviation**\
   >**docker run -p 8080:8080 pankajsn/smart4aviation**
 
+## JSON file path:
+Please remember to keep the syntax of the JSON data as is in the current files.\
+In case different JSON data is to be used, please find the JSON files at the following location:
+  >**src/main/resources/static/json**
+
 ## Tasks:
 - For requested Flight Number and date will respond with following :
   - Cargo Weight for requested Flight
